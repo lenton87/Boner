@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\CheckPoint.cs">
+    <Files>
+      <File FileName="Assets\Script\Player.cs" Line="12" Column="43" />
+      <File FileName="Assets\Script\RainTears.cs" Line="17" Column="46" />
+      <File FileName="Assets\Script\RainCloud.cs" Line="15" Column="5" />
+      <File FileName="Assets\Script\Wall.cs" Line="13" Column="1" />
+      <File FileName="Assets\Script\AudioManager.cs" Line="11" Column="18" />
+      <File FileName="Assets\Script\CheckPoint.cs" Line="28" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
